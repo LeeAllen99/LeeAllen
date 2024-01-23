@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    background-color: burlywood;
+    background-image:url(../Image/background.png);
+}
+.div{
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    color: blue;
+    font-style: normal;
+}
+b{
+    font-size: 20px;
+    font-family: serif;
+    font-style: oblique;
+    display: flex;
+    text-align: center;
+}
